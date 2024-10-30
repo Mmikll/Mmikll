@@ -11,7 +11,6 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <i>Happy Coding!</i> 🚀
 </br>
 </br>
-</br>
 </div>
 
 <h2 align="center">👨‍💻 About Me </h2>
