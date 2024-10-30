@@ -40,7 +40,7 @@ I am a Systems Engineering student, currently halfway through my degree. I am se
 <br/>
 <h3 align="center">🗄️ Databases</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=graphql,mongodb,mysql,firebase" /><br>
+  <img src="https://skillicons.dev/icons?i=graphql,mongodb,postgresql,firebase" /><br>
 </div>
 <br/>
 <h3 align="center">🔧 Tools</h3>
