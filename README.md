@@ -14,12 +14,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 </br>
 </div>
 
-<h3 align="center">
-    <picture >
-        <img src="https://media.tenor.com/trwMzHIDQlQAAAAi/hack-hacking.gif" align="center" width="50" height="40">
-    </picture> 
-     About Me 
-</h3>
+<h2 align="center">👨‍💻 About Me </h2>
 
 
 I am a system engineering student, currently halfway through my degree. I am self-taught expanding my knowledge in both front-end and back-end development, And now I am looking for new job opportunities. I love to learn and build something new, productive, innovative and creative.
@@ -33,6 +28,7 @@ I am a system engineering student, currently halfway through my degree. I am sel
 ⬇️ Feel free to check out my profile! ⬇️ 
 <br/>
 
+<h2 align="center"> 🛠️ Technologies </h2>
 <h3 align="center" >💻 Languages & Markup</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" /><br>
@@ -53,7 +49,7 @@ I am a system engineering student, currently halfway through my degree. I am sel
   <img src="https://skillicons.dev/icons?i=github,git,vscode,figma,vite,yarn,npm,babel,jest" /><br>
 </div>
 <br>
-<h4 align="center">Feel free to reach out using the links below. Thanks for visiting!</h4>
+<h3 align="center">Feel free to reach out using the links below. Thanks for visiting!</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/miguel-miranda-32b543201/?locale=en_US"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="90px"/></a>
   <a href="https://www.instagram.com/_migzl_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"  width="100px"/></a>
