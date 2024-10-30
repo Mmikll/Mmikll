@@ -16,7 +16,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <h2 align="center">👨‍💻 About Me </h2>
 
 
-I am a system engineering student, currently halfway through my degree. I am self-taught expanding my knowledge in both front-end and back-end development, And now I am looking for new job opportunities. I love to learn and build something new, productive, innovative and creative.
+I am a Systems Engineering student, currently halfway through my degree. I am self-taught, expanding my knowledge in both front-end and back-end development, and now I am looking for new job opportunities. I love to learn and build something new, productive, innovative, and creative.
 - 🌱 I’m currently learning ...
   - Next.js
   - Node.Js
