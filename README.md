@@ -15,12 +15,12 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 </div>
 
 <h3 align="center">
-    <picture>
-        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
+    <picture >
+        <img src="https://media.tenor.com/trwMzHIDQlQAAAAi/hack-hacking.gif" align="center" width="50" height="40">
     </picture> 
      About Me 
 </h3>
-<br/>
+
 
 I am a system engineering student, currently halfway through my degree. I am self-taught expanding my knowledge in both front-end and back-end development, And now I am looking for new job opportunities. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
@@ -45,7 +45,7 @@ I am a system engineering student, currently halfway through my degree. I am sel
 <br/>
 <h3 align="center">🗄️ Databases</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" /><br>
+  <img src="https://skillicons.dev/icons?i=graphql,mongodb,mysql,firebase" /><br>
 </div>
 <br/>
 <h3 align="center">🔧 Tools</h3>
