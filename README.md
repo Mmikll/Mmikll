@@ -45,7 +45,7 @@ I am a Systems Engineering student, currently halfway through my degree. I am se
 <br/>
 <h3 align="center">🔧 Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,figma,vite,yarn,npm,babel,jest" /><br>
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,figma,vite,materialui,yarn,npm,babel,jest" /><br>
 </div>
 <br>
 <h3 align="center">Feel free to reach out using the links below. Thanks for visiting!</h3>
