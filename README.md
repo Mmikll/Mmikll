@@ -22,7 +22,7 @@ I am a Systems Engineering student, currently halfway through my degree. I am se
   - Node.Js
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 🚲 I like riding in bike, 🎮 playing videogames, 🎥 watching series and movies, and 📖 reading some self-growth books.
+- Outside of tech, 🚲 I enjoy riding my bike, 🎮 playing video games, 🎥 watching series and movies, and 📖 reading self-growth books.
 - 📫 Reach out to me at: <a href="mmirandasanchez4@gmail.com">mmirandasanchez4@gmail.com</a> <br/>
 ⬇️ Feel free to check out my profile! ⬇️ 
 <br/>
