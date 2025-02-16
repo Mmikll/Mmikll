@@ -35,7 +35,7 @@ I am a Systems Engineering student, currently halfway through my degree. I am se
 <br/>
 <h3 align="center">🚀 Frameworks & Libraries</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass,react,redux,nodejs,express,next" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass,react,redux,nodejs,express" /><br>
 </div>
 <br/>
 <h3 align="center">🗄️ Databases</h3>
@@ -45,7 +45,7 @@ I am a Systems Engineering student, currently halfway through my degree. I am se
 <br/>
 <h3 align="center">🔧 Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,figma,vite,materialui,yarn,npm,babel,jest" /><br>
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,figma,vite,materialui,pnpm,babel,jest,postman" /><br>
 </div>
 <br>
 <h3 align="center">Feel free to reach out using the links below. Thanks for visiting!</h3>
